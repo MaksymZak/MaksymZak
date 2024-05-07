@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page.id=MaksymZak.MaksymZak" width="100"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=MaksymZak&style=for-the-badge" width="100"/>
 
 <img src="./assets/github.gif" width="100"/>
 
