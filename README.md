@@ -1,6 +1,7 @@
 <div id="header" align="center">
 
-<img align="right" src="./assets/github.gif" width="100"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page.id=MaksymZak.MaksymZak" width="100"/>
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=MaksymZak.visitor-badge" width="100"/>
 
 <img src="./assets/github.gif" width="100"/>
 
@@ -19,11 +20,10 @@ My project experience includes team and individual projects, where I have worked
 🌐 **Languages** :
 🇺🇦Ukrainian - native | 🇬🇧English - pre-intermediate
 
-
 ### Roadmap 2024 :
 
 ✍️ - **Improve:** `HTML` | `CSS` | `JavaScript` | `React` | `Node.js` | `Next.js` | `TypeScript` <br>
-📚 - **Learn:**  `React Native`  |  `SQL` <br>
+📚 - **Learn:** `React Native` | `SQL` <br>
 
 <br>
 <br>
