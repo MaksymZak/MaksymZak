@@ -1,7 +1,6 @@
 <div id="header" align="center">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page.id=MaksymZak.MaksymZak" width="100"/>
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=MaksymZak.visitor-badge" width="100"/>
 
 <img src="./assets/github.gif" width="100"/>
 
@@ -72,15 +71,15 @@ My project experience includes team and individual projects, where I have worked
 <table align="center">
   <tr>
   <td>
-   <a href="https://github.com/ViktorSvertoka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ViktorSvertoka&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Viktor Svertoka github stats" /></a>
+   <a href="https://github.com/MaksymZak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MaksymZak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Viktor Svertoka github stats" /></a>
   </td>
   <td>
-  <a href="https://github.com/ViktorSvertoka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact&theme=buefy&hide_border=true" /></a>
+  <a href="https://github.com/MaksymZak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymZak&layout=compact&theme=buefy&hide_border=true" /></a>
   </td>
   </tr>
   <tr>
   <td colspan=2 align="center">
-  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ViktorSvertoka&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" /> </a>
+  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=MaksymZak&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" /> </a>
   </td>
   </tr>
 </table>
