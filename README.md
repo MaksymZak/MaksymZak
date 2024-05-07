@@ -1,39 +1,32 @@
 <div id="header" align="center">
 
+<img align="right" src="./assets/github.gif" width="100"/>
+
 <img src="./assets/github.gif" width="100"/>
 
 <h1>
-Hey there, I'm Viktor!
+Hey there, I'm Maksym!
 <img src="./assets/giphy.gif" width="30px" alt="GIF">
 </h1>
 
 </div>
   
 ### 👨‍💻 About Me :
-I am currently pursuing a Master's degree in Computer Science: **Software Engineering**, and I have completed a **Full Stack** development course. <br> 
 My project experience includes team and individual projects, where I have worked with technologies such as **HTML5**, **CSS3**, **JavaScript**, **React.js**, **Next.js**, and **Node.js**. <br>
-Additionally, I am familiar with Agile and Scrum methodologies. <br>
+<br>
 
 <img align="right" src="./assets/code.gif" width="380" height="220"><br>
 🌐 **Languages** :
 🇺🇦Ukrainian - native | 🇬🇧English - pre-intermediate
 
- <div>
-   <a href="https://www.behance.net/viktorsvertoka" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>&nbsp;
-   <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">&nbsp;
- </div>
 
 ### Roadmap 2024 :
 
-✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` | `React` | `WEb Design` <br>
-📚 - **Learn:** `Next.js` | `React Native` | `Node.js` | `TypeScript` | `Python` | `SQL` <br>
+✍️ - **Improve:** `HTML` | `CSS` | `JavaScript` | `React` | `Node.js` | `Next.js` | `TypeScript` <br>
+📚 - **Learn:**  `React Native`  |  `SQL` <br>
 
 <br>
 <br>
-
-<div align="center">
-<a href="https://u8views.com/github/ViktorSvertoka"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
-</div>
 
 ### My stack and tools :
 
